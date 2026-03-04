@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 95bc0a9b0aa3fbf48b271af0ded32e7a
+guid: 7571124e82697ac42b0f301e8f0378e6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3842287048464913184
-    second: fondos_frg_0001_Suelo_0
+      213: -381809793691906079
+    second: "Asset_Meg\xE1fono_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,30 +109,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fondos_frg_0001_Suelo_0
+      name: "Asset_Meg\xE1fono_0"
       rect:
         serializedVersion: 2
-        x: 160
-        y: 186
-        width: 9236
-        height: 2123
+        x: 2251
+        y: 49
+        width: 453
+        height: 738
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 023d5d896bb825530800000000000000
-      internalID: 3842287048464913184
+      spriteID: 1ef8a3bf30a83baf0800000000000000
+      internalID: -381809793691906079
       vertices: []
       indices: 
       edges: []
@@ -161,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      fondos_frg_0001_Suelo_0: 3842287048464913184
+      "Asset_Meg\xE1fono_0": -381809793691906079
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

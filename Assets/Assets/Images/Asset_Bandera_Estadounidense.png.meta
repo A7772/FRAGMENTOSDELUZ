@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 142273f237817f944a291a181942d16b
+guid: 93cef14b33bc4ce4c97694d89a431d06
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8795407787803533718
-    second: fondos_frg_0002_Planta_Fondo_0
-  - first:
-      213: -7340608175189437454
-    second: fondos_frg_0002_Planta_Fondo_1
+      213: -2946821209011701893
+    second: Asset_Bandera_Estadounidense_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -129,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fondos_frg_0002_Planta_Fondo_0
+      name: Asset_Bandera_Estadounidense_0
       rect:
         serializedVersion: 2
-        x: 4242
-        y: 282
-        width: 233
-        height: 382
+        x: 3058
+        y: 383
+        width: 332
+        height: 228
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,30 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 691ebbe68c09f0a70800000000000000
-      internalID: 8795407787803533718
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fondos_frg_0002_Planta_Fondo_1
-      rect:
-        serializedVersion: 2
-        x: 4250
-        y: 254
-        width: 7
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2f35182c1cbe02a90800000000000000
-      internalID: -7340608175189437454
+      spriteID: b77354c29b9ca17d0800000000000000
+      internalID: -2946821209011701893
       vertices: []
       indices: 
       edges: []
@@ -186,8 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      fondos_frg_0002_Planta_Fondo_0: 8795407787803533718
-      fondos_frg_0002_Planta_Fondo_1: -7340608175189437454
+      Asset_Bandera_Estadounidense_0: -2946821209011701893
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

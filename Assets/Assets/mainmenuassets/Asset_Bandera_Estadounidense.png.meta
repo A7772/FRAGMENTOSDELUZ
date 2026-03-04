@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 924d54d6f17d76840b462f9fb674a926
+guid: 4058dcd0cc47fc0468bc5efd5f83f786
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1465525445616700550
-    second: fondos_frg_0005_Marco_negro_fondo_0
+      213: -2946821209011701893
+    second: Asset_Bandera_Estadounidense_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,30 +109,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fondos_frg_0005_Marco_negro_fondo_0
+      name: Asset_Bandera_Estadounidense_0
       rect:
         serializedVersion: 2
-        x: 151
-        y: 200
-        width: 9230
-        height: 5195
+        x: 3058
+        y: 383
+        width: 332
+        height: 228
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 68c874bc0a7965410800000000000000
-      internalID: 1465525445616700550
+      spriteID: b77354c29b9ca17d0800000000000000
+      internalID: -2946821209011701893
       vertices: []
       indices: 
       edges: []
@@ -161,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      fondos_frg_0005_Marco_negro_fondo_0: 1465525445616700550
+      Asset_Bandera_Estadounidense_0: -2946821209011701893
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

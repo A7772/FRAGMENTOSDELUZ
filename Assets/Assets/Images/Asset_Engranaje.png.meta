@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: c18d0f9f25667dd4b8317d9ac4597809
+guid: f1f15ae61c0fafc49a5d7a740c9f0601
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1115023669812857507
-    second: fondos_frg_0006_Edificios_Fondo_0
-  - first:
-      213: 5268322078491531015
-    second: fondos_frg_0006_Edificios_Fondo_1
-  - first:
-      213: 5854860714553302538
-    second: fondos_frg_0006_Edificios_Fondo_2
-  - first:
-      213: 5230062624282616028
-    second: fondos_frg_0006_Edificios_Fondo_3
-  - first:
-      213: -286244207088592359
-    second: fondos_frg_0006_Edificios_Fondo_4
+      213: -6230965853133518662
+    second: Asset_Engranaje_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -138,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fondos_frg_0006_Edificios_Fondo_0
+      name: Asset_Engranaje_0
       rect:
         serializedVersion: 2
-        x: 254
-        y: 361
-        width: 2238
-        height: 4014
+        x: 2703
+        y: 208
+        width: 356
+        height: 353
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,96 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d55f6a441e3a680f0800000000000000
-      internalID: -1115023669812857507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fondos_frg_0006_Edificios_Fondo_1
-      rect:
-        serializedVersion: 2
-        x: 2006
-        y: 4372
-        width: 64
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 707d5d28407dc1940800000000000000
-      internalID: 5268322078491531015
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fondos_frg_0006_Edificios_Fondo_2
-      rect:
-        serializedVersion: 2
-        x: 2647
-        y: 361
-        width: 2952
-        height: 4873
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a0ed65cacc4a04150800000000000000
-      internalID: 5854860714553302538
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fondos_frg_0006_Edificios_Fondo_3
-      rect:
-        serializedVersion: 2
-        x: 6738
-        y: 361
-        width: 2481
-        height: 4474
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cd0a9692f3ae49840800000000000000
-      internalID: 5230062624282616028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fondos_frg_0006_Edificios_Fondo_4
-      rect:
-        serializedVersion: 2
-        x: 2499
-        y: 361
-        width: 8
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 91a9875096e070cf0800000000000000
-      internalID: -286244207088592359
+      spriteID: ab84364d1992789a0800000000000000
+      internalID: -6230965853133518662
       vertices: []
       indices: 
       edges: []
@@ -261,11 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      fondos_frg_0006_Edificios_Fondo_0: -1115023669812857507
-      fondos_frg_0006_Edificios_Fondo_1: 5268322078491531015
-      fondos_frg_0006_Edificios_Fondo_2: 5854860714553302538
-      fondos_frg_0006_Edificios_Fondo_3: 5230062624282616028
-      fondos_frg_0006_Edificios_Fondo_4: -286244207088592359
+      Asset_Engranaje_0: -6230965853133518662
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
